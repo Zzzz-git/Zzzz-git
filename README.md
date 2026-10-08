@@ -8,7 +8,7 @@
     <img align ="left" alt='Zzzz's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
-    <a href="https://github.com/Zzzz">
+    <a href="https://github.com/Zzzz-git">
       <img align ="left" alt='Zzzz's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
