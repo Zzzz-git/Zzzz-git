@@ -1,15 +1,15 @@
 ### Hi there 👋, Zzzz
-**Profile Views:-** ![Profile Views](https://komarev.com/ghpvc/?username=A-cute-blob&style=flat)
+**Profile Views:-** ![Profile Views](https://komarev.com/ghpvc/?username=Zzzz-git&style=flat)
 ## Connect with me:
 
 <br/>
 
 <a href="https://discord.com/users/728590937441304586">
-    <img align ="left" alt='A-cute-blob's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+    <img align ="left" alt='Zzzz's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
                                                                                                                                   
   </a>
-    <a href="https://github.com/A-cute-blob">
-      <img align ="left" alt='A-cute-blob's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+    <a href="https://github.com/Zzzz">
+      <img align ="left" alt='Zzzz's Github" width="22px" src ="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
                                                                                                                                               </a>
                                                                                                                       </br>    
  </br><img src="https://discord.c99.nl/widget/theme-3/728590937441304586.png" alt="discord" />
@@ -39,9 +39,9 @@
 
 **Stats:**  <br>
 
-<div align="left"><img src="https://github-trophies.vercel.app/?username=A-cute-blob&theme=tokyonight&count_private=true&hide_border=true"></div><br>
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=A-cute-blob&show_icons=true&hide_border=true&theme=tokyonight">
-<br><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=A-cute-blob&theme=tokyonight&hide_border=true">
+<div align="left"><img src="https://github-trophies.vercel.app/?username=Zzzz-git&theme=tokyonight&count_private=true&hide_border=true"></div><br>
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=Zzzz-git&show_icons=true&hide_border=true&theme=tokyonight">
+<br><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Zzzz-git&theme=tokyonight&hide_border=true">
 <br>
 
 **Quote of the day:** <br>
